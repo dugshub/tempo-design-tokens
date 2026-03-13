@@ -4,3 +4,4 @@ export { typography } from './tokens/typography';
 export { toCssVariables } from './transforms/css';
 export { toTailwindConfig } from './transforms/tailwind';
 export { themes } from './tokens/themes';
+export { toThemeCss } from './transforms/theme-css';
